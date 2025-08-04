@@ -6,10 +6,10 @@ This project is a pixel-perfect frontend clone of the [Troscan Framer website](h
 
 ## 🛠️ Tech Stack
 
-- **Framework:** Next.js
-- **Styling:** Tailwind CSS
-- **Animations:** Framer Motion / CSS transitions
-- **Hosting:** Vercel
+- [x] **Framework:** Next.js
+- [x] **Styling:** Tailwind CSS
+- [x] **Animations:** Framer Motion / CSS transitions
+- [x] **Hosting:** Vercel
 
 ---
 
@@ -28,12 +28,13 @@ This project is a pixel-perfect frontend clone of the [Troscan Framer website](h
 - **GitHub Repository Link**
 - A public GitHub repo named something like framer-clone or troscan-clone
   Must include:
-  Full source code
-  README.md (explaining tech stack, how to run it, and what’s done)
-  .gitignore and clean folder structure
+
+  - [x] Full source code
+  - [x] README.md (explaining tech stack, how to run it, and what’s done)
+  - [x] .gitignore and clean folder structure
 
 - **Live Deployed Link:**
-  You've to Deploy on Vercel. Must be accessible to anyone (no login required)
+- [x] You've to Deploy on Vercel. Must be accessible to anyone (no login required)
 
 When it'll be done, please reply to this email with your submission:
 
