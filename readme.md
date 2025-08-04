@@ -2,7 +2,7 @@
 
 ## Task Overview
 
-This project is a pixel-perfect frontend clone of the [Troscan Framer website](https://troscan.framer.website/), using **Next.js**. It you are interested, you've to complete the landing page as part of a skill assessment task for the frontend developer position at **Ena Ema Technologies**.
+This project is a pixel-perfect Landing Page clone of the [Troscan Framer website](https://troscan.framer.website/), using **Next.js**. If you are interested with our advertised offer, you've to complete the landing page as part of a skill assessment, for the frontend developer position at **Ena Ema Technologies**. We requrest you to collect assets from the mentioned website.
 
 ## 🛠️ Tech Stack
 
