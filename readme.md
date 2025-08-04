@@ -1,4 +1,4 @@
-# 🛒 Landing Page Clone
+# Landing Page Clone
 
 ## Task Overview
 
