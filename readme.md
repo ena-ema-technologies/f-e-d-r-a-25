@@ -1,6 +1,6 @@
 # 🛒 Landing Page Clone
 
-## 📌 Task Overview
+## Task Overview
 
 This project is a pixel-perfect frontend clone of the [Troscan Framer website](https://troscan.framer.website/), using **Next.js**. It you are interested, you've to complete the landing page as part of a skill assessment task for the frontend developer position at **Ena Ema Technologies**.
 
@@ -14,11 +14,10 @@ This project is a pixel-perfect frontend clone of the [Troscan Framer website](h
 - **Styling:** Tailwind CSS
 - **Animations:** Framer Motion / CSS transitions
 - **Hosting:** Vercel / Netlify
-- **Version Control:** Git & GitHub
 
 ---
 
-## 🎯 Task Requirements
+## Requirements
 
 - [x] Exact visual replication of [https://troscan.framer.website/](https://troscan.framer.website/)
 - [x] Responsive layout (mobile, tablet, desktop)
@@ -26,34 +25,38 @@ This project is a pixel-perfect frontend clone of the [Troscan Framer website](h
 - [x] Hover effects on interactive elements
 - [x] Clean, reusable, and modular code
 
+  ***
+
+## What to Submit
+
+- **GitHub Repository Link**
+  A public GitHub repo named something like framer-clone or troscan-clone
+  Must include:
+  Full source code
+  README.md (explaining tech stack, how to run it, and what’s done)
+  .gitignore and clean folder structure
+
+- **Live Deployed Link:**
+  Deployed via Vercel
+  Must be accessible to anyone (no login required)
+  Example: https://framer-clone.vercel.app
+
+Please reply to this email with your submission:
+
+📬 career@enaema.com
+
 ---
 
-## 📸 Screenshots
+## Deadline
 
-| Desktop                               | Mobile                              |
-| ------------------------------------- | ----------------------------------- |
-| ![Desktop](./screenshots/desktop.png) | ![Mobile](./screenshots/mobile.png) |
-
-_(Optional: Add screenshots in the `/screenshots` folder)_
+Please submit your task before 11:50 PM 07th August, 2025.
 
 ---
-
-## 📁 Folder Structure
-
-/public
-/images
-/pages
-/components
-/styles
 
 📄 License
-This is a task submission for assessment purposes only and not intended for commercial use.
+This is a skill assesment task for assessment purposes only and not intended for commercial use.
 
 🙏 Acknowledgements
 Design inspiration from Framer
 
 Task provided by Ena Ema Technologies
-
----
-
-Let me know if you'd like to customize the stack (e.g., you’re not using Tailwind or want to include GSAP), or if you want a simpler version. I can also generate the screenshots folder template.
