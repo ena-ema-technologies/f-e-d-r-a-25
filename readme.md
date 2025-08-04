@@ -2,7 +2,7 @@
 
 ## Task Overview
 
-This project is a pixel-perfect Landing Page clone of the [Troscan Framer website](https://troscan.framer.website/), using **Next.js**. If you are interested with our advertised offer, you've to complete the landing page as part of a skill assessment, for the frontend developer position at **Ena Ema Technologies**. We requrest you to collect assets from the mentioned website.
+This project is a pixel-perfect Landing Page clone of the [Troscan Framer website](https://troscan.framer.website/), using **Next.js**. If you are interested with our advertised offer, you've to complete the landing page as part of a skill assessment, for the frontend developer position at **Ena Ema Technologies**. We request you to collect assets from the mentioned website.
 
 ## 🛠️ Tech Stack
 
@@ -34,7 +34,7 @@ This project is a pixel-perfect Landing Page clone of the [Troscan Framer websit
   - [x] .gitignore and clean folder structure
 
 - **Live Deployed Link:**
-- [x] You've to Deploy on Vercel. Must be accessible to anyone (no login required)
+- [x] You've to Deploy your task on Vercel. Must be accessible to anyone
 
 When it'll be done, please reply to this email with your submission:
 
