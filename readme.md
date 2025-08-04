@@ -44,7 +44,7 @@ When it'll be done, please reply to this email with your submission:
 
 ## Deadline
 
-Please submit your task before 11:50 PM 07th August, 2025.
+Please submit your task before 11:50 PM 08 th August, 2025.
 
 ---
 
